@@ -1,0 +1,6 @@
+Element's onChange fires the handleChange method
+          HandleChange dispatches an action-created action
+            A Reducer catches the action and updates the store
+              connect() function updates a component by it's props
+                The component rerenders and now reflects the new state
+        
